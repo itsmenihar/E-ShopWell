@@ -1,0 +1,16 @@
+[
+	{
+		"loginEmail": "milansahu@gmail.com",
+		"password": "Milansahu22@",
+		"expectedItem": "zara coat 3",
+		"countryName": "India",
+		"actualMessage": "THANKYOU FOR THE ORDER."
+	},
+	{
+		"loginEmail": "automation.test9619@gmail.com",
+		"password": "Milansahu2@",
+		"expectedItem": "ADIDAS ORIGINAL",
+		"countryName": "India",
+		"actualMessage": "THANKYOU FOR THE ORDER."
+	}
+]
